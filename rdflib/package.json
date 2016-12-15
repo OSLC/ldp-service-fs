@@ -1,0 +1,155 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "rdflib",
+        "scope": null,
+        "escapedName": "rdflib",
+        "name": "rdflib",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\IBM_ADMIN\\NeilWork\\LDP-Service-Info\\ldp-app"
+    ]
+  ],
+  "_from": "rdflib@latest",
+  "_id": "rdflib@0.9.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/rdflib",
+  "_nodeVersion": "6.0.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/rdflib-0.9.0.tgz_1470672311194_0.29073069733567536"
+  },
+  "_npmUser": {
+    "name": "codenamedmitri",
+    "email": "dzagidulin@gmail.com"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "rdflib",
+    "scope": null,
+    "escapedName": "rdflib",
+    "name": "rdflib",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/rdflib/-/rdflib-0.9.0.tgz",
+  "_shasum": "d5f4e238bcd47a81c82d203ed385df9965bcb38f",
+  "_shrinkwrap": null,
+  "_spec": "rdflib",
+  "_where": "C:\\Users\\IBM_ADMIN\\NeilWork\\LDP-Service-Info\\ldp-app",
+  "author": {
+    "name": "Tim BL",
+    "email": "timbl@w3.org"
+  },
+  "bugs": {
+    "url": "http://github.com/linkeddata/rdflib.js/issues"
+  },
+  "contributors": [
+    {
+      "name": "Dmitri Zagidulin",
+      "url": "https://github.com/dmitrizagidulin/"
+    }
+  ],
+  "dependencies": {
+    "async": "^0.9.x",
+    "jsonld": "^0.4.5",
+    "n3": "^0.4.1",
+    "xmldom": "^0.1.22",
+    "xmlhttprequest": "^1.7.0"
+  },
+  "description": "an RDF library for node.js. Suitable for client and server side.",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "babelify": "^7.3.0",
+    "browserify": "^13.0.0",
+    "minifyify": "^7.3.2",
+    "nodeunit": "^0.9.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "d5f4e238bcd47a81c82d203ed385df9965bcb38f",
+    "tarball": "https://registry.npmjs.org/rdflib/-/rdflib-0.9.0.tgz"
+  },
+  "engines": {
+    "node": "^6.0"
+  },
+  "files": [
+    "dist",
+    "dist/rdflib.js",
+    "src"
+  ],
+  "gitHead": "3482d14e01c26be7737c0d5922283b72e91464f0",
+  "homepage": "http://github.com/linkeddata/rdflib.js",
+  "keywords": [
+    "linkeddata",
+    "linked data",
+    "rdf",
+    "rdfa",
+    "turtle",
+    "semantic",
+    "web",
+    "read-write web"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "codenamedmitri",
+      "email": "dzagidulin@gmail.com"
+    },
+    {
+      "name": "deiu",
+      "email": "andrei@fcns.eu"
+    },
+    {
+      "name": "martinmr",
+      "email": "mrtnz.rvr@gmail.com"
+    },
+    {
+      "name": "nicola",
+      "email": "me@nicola.io"
+    },
+    {
+      "name": "presbrey",
+      "email": "presbrey+npm@gmail.com"
+    },
+    {
+      "name": "timbl",
+      "email": "timbl+npmjs@w3.org"
+    }
+  ],
+  "name": "rdflib",
+  "optionalDependencies": {},
+  "private": false,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/linkeddata/rdflib.js.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "standard": {
+    "globals": [
+      "ActiveXObject",
+      "Components",
+      "DOMParser",
+      "netscape",
+      "$rdf",
+      "Services",
+      "tabulator",
+      "WebSocket"
+    ]
+  },
+  "version": "0.9.0"
+}
